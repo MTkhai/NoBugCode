@@ -1,6 +1,6 @@
-# No Code
+# NoBugCode
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+NoBugCode is one of the ways to write secure and no-bug code applications. Write nothing; deploy nowhere.
 
 ## Getting Started
 
@@ -46,7 +46,7 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 ```
 
-I know right?
+you know it right?
 
 ## Contributing
 
